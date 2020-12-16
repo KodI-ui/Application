@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="red_background_color">RED BACKGROUND COLOR</string>
+    <string name="green_background_color">GREEN BACKGROUND COLOR</string>
+    <string name="defoult">Defoult</string>
+</resources>
